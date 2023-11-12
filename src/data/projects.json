@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Design wireframe",
+    "imageSrc": "projects/wirefram.png",
+    "description": "In this project I design wireframe for website interface using Figma.",
+    "skills": ["Figma","Creative"],
+    "source": "https://www.figma.com/file/jHiBw2qLwFeHztGtzjNGR9/wireframe-proj?type=design&node-id=0-1&mode=design&t=FAU1TEdQm2HwDqwz-0"
+  },
+  {
+    "title": "Build Portfolio Website",
+    "imageSrc": "projects/website.png",
+    "description": "This project I learn how to build a portfolio website using my programming skills.",
+    "skills": ["React", "JavaScript","CSS","Html"],
+    "source": "http://localhost:5173/"
+  }
+]
